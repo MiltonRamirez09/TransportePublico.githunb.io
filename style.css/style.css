@@ -1,0 +1,65 @@
+*{
+	margin: 0;
+	padding: 0
+	box-sizing: border-box;
+}
+
+body{
+
+	background rgb(0,255,219);
+	background: linear-gradient(180deg, rgb(0255,219,0,8861660058947577) 8%, rgb(103,226,234,1) 46%, rgb(245,0,255,1) 100%);
+	text-align: center;
+}
+
+header{
+
+	display: flex;
+	justify-content: center ;
+	background: #333;
+}
+
+}
+h2 {
+display: block;
+width: 700px;
+height: 700px;
+margin: auto;
+}
+
+.img1{
+ display: block;
+ width: 700px;
+ height: 700px;
+ margin: auto;
+}
+.Menu{
+       
+    background-color: black ;
+    color: grey;
+    width: 100% ;
+    list-style-type: none;
+    text-align: center ;    
+}
+
+}
+
+.img2{
+display: block;
+width: 700px;
+height: 700px;
+margin: auto;
+}
+
+.img3{
+display: block;
+width: 700px;
+height: 700px;
+margin: auto;
+}
+
+.img4{
+display: block;
+width: 700px;
+height: 700px;
+margin: auto;
+}
